@@ -6,18 +6,18 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Limited by Imagination
-email: bagus@teknik.io
+title: Jekyll
+email: eggoez@teknik.io
 description: > # this means to ignore newlines until "baseurl:"
   Today i found about myself, and i know what can i do
   I not understanding about YOU anymore
   I will way alone without you again
   I just want give my family happines
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bagus18.github.io" # the base hostname & protocol for your site
+baseurl: "/Jekyll" # the subpath of your site, e.g. /blog
+url: "http://duniaweb.github.io" # the base hostname & protocol for your site
 permalink: /:categories/:title.html
-#twitter_username: bagus18
-github_username:  bagus18
+#twitter_username: eggoez
+github_username:  dunialio
 
 # Build settings
 markdown: kramdown
